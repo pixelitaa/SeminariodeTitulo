@@ -10,7 +10,7 @@ Correcciónes: mas ambiguedad en la formulación de hipotesis para evitar que se
 
 ## Introducción a las metodologias de investigación ##
 
-~El imperio de los pixeles~
+**El imperio de los pixeles**
 
 Gembali. S (2022. adding physical devices to digital products to improve user experience)
 
@@ -38,7 +38,7 @@ diseño, ingenieria y negocios para investigar,definir,respaldar y ejecutar un p
 
 ## **Herramietas de diseño centrado en personas** ##
 
-~"El diseño como storytelling" E.Lupton"~
+**"El diseño como storytelling" E.Lupton"**
 
 Construir el producto entendiendo el diseño como una narrativa de la experiencia
 
