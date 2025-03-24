@@ -36,6 +36,24 @@ metodologia de investigacion que consiste en diverger en la busqueda de informac
 metodologia que aborda una investigación physical como un resultado de la implementación del area del
 diseño, ingenieria y negocios para investigar,definir,respaldar y ejecutar un proyecto.
 
+-Es una metodologia que implementa abordar una integración phygital mediante la ingenieria, el diseño y el
+area de negocios.
+
+-Implementa analísis de flujo de tarea de una app digital.
+
+-Implementa un enfoque mixto, utilizando fuentes primarias y secundarias.
+
+-Implementa la perspectiva del usuario y tambien de negocios.
+
+-Implementa al sistematización de entrevistas mediante preguntas abiertas
+adaptadas al rol y asi encontrar las citas claves, para luego ser categorizadas
+y mostrar la entrevista de forma efectiva e interesante.
+
+-Implementa mapas de afinidad.
+
+-Implementa analísis comparativos.
+
+
 ## **Herramietas de diseño centrado en personas** ##
 
 **"El diseño como storytelling" E.Lupton"**
@@ -60,10 +78,21 @@ hacia nuestro producto.
 
 5.Oportunidades.
 
+## preguntas claves para la identificación de problemas ##
+
+-¿que limitaciónes claves tiene la experiencia?
+-¿qué ocurre en el mundo fisicó del usuario cuando interactua en el mundo digital?
+-¿que "momentos de la verdad" podrian mejorarse?
+-¿qué tipo de retroalimentación fisica podría mejorar al experienca?
+-¿que technologias son necesarias?
+-¿cual es su valor comercial?
+-¿que estrategia de personalización sera mas adecuada para el producto phygital?.
+
 ## encargo ##
 
+realizar una investigación bibliografica, a partir de ahi hacer una
 recopilación de proyectos que desde el diseño hayan resuelto una problematica similar o equivalente.
-hacer una reflexion de 5 puntos de vista para transformar unobjeto fisico en uno phygital
+hacer una reflexion de 5 puntos de vista para transformar un objeto fisico en uno phygital
 
 
 
