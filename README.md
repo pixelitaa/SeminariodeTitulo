@@ -9,7 +9,7 @@ clases por comodidad.
 
 **apuntes de cada clase**
 
-[clase 01!](clase01.md)
+[clase 01!](SeminariodeTitulo/clases/clase01/clase01.md)
 
 [clase 02!](clase02.md)
 
