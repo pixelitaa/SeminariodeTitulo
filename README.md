@@ -9,11 +9,11 @@ clases por comodidad.
 
 **apuntes de cada clase**
 
-[clase 01!](SeminariodeTitulo/clases/clase01/clase01.md)
+[clase 01!](clases/clase01/clase01.md)
 
-[clase 02!](clase02.md)
+[clase 02!](clases/clase02/clase02.md)
 
-[clase 03!](clase03.md)
+[clase 03!](clases/clase03/clase03.md)
 
 [clase 04!](clase04.md)
 
