@@ -6,6 +6,8 @@ Repositorio para la documentación de mi proceso de seminario de titulo
 bitacora digital de investigación y desarrollo de proyecto, separado del apuntes
 clases por comodidad.
 
+[Bitacora!](bitacora)
+
 
 **apuntes de cada clase**
 
@@ -15,9 +17,9 @@ clases por comodidad.
 
 [clase 03!](clases/clase03/clase03.md)
 
-[clase 04!](clase04.md)
+[clase 04!](clases/clase04/clase04.md)
 
-[clase 05!](clase05.md)
+[clase 05!](clases/clase05/clase05.md)
 
 
 
